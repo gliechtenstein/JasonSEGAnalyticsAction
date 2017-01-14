@@ -1,7 +1,8 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "name": "segment",
     "classname": "JasonSEGAnalyticsAction",
     "platform": "ios",
-    "description": "Segment.io extension for Jasonette"
+    "description": "Segment.io extension for Jasonette",
+    "dependencies": ["pod 'Analytics', '~> 3.0'"]
 }
