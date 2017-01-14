@@ -1,0 +1,7 @@
+{
+    "version": "0.1.0",
+    "name": "segment",
+    "classname": "JasonSEGAnalyticsAction",
+    "platform": "ios",
+    "description": "Segment.io extension for Jasonette"
+}
