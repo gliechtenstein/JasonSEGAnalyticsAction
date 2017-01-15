@@ -46,7 +46,10 @@ For example, take a look at this example:
 	"success": {
 		"type": "$segment.track",
 		"options": {
-			"result": "{{$jason}}"
+			"event": "response",
+		  	"properties": {
+				"json": "{{$jason}}"
+			}
 		},
 		"success": {
 			"type": "$render"
