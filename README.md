@@ -1,6 +1,14 @@
-# JasonSEGAnalyticsAction
+# JasonSEGAnalyticsAction for iOS
 
 Jasonette extension for integrating [segment.io](https://www.segment.io)
+
+See the Android version [here](https://github.com/gliechtenstein/JasonSEGAnalyticsAction-Android)
+
+# Setup
+
+1. Install the extension using Jason Extension Manager
+2. Get an API key from [segment.io](https://www.segment.io)
+3. From your XCode project, open `segment.plist`. Add your API key to the `key` property.
 
 # Usage
 
